@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>AddinGeneratorTesting</Name>
+        <FullClassName>Common.ExternalApplication</FullClassName>
+        <Text>AddinGeneratorTesting Add-in</Text>
+        <VisibilityMode>AlwaysVisible</VisibilityMode>
+        <Assembly>AddinGeneratorTesting.dll</Assembly>
+        <AddInId>443e6182-c9ab-4636-8c53-ebd4546c1a9d</AddInId>
+        <VendorId>ADSK</VendorId>
+        <VendorDescription>e-verse LLC, www.e-verse.com</VendorDescription>
+    </AddIn>
+</RevitAddIns>
+
